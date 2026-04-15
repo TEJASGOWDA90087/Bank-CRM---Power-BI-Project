@@ -1,3 +1,4 @@
+# Bank-CRM---Power-BI-Project
 Objective
 To analyze customer behavior, churn trends, and demographic insights to uncover actionable patterns that support customer retention and strategic banking decisions.
 
@@ -53,4 +54,4 @@ Connected and transformed raw data from multiple sources
 Created a clean data model with proper relationships and measures
 Built interactive dashboards with slicers, drill-throughs, and KPIs
 Defined custom DAX measures to calculate churn rate, segmentation, and averages
-# Bank-CRM---Power-BI-Project
+
